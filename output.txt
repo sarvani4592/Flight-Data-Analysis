@@ -1,0 +1,656 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red27\green31\blue34;}
+{\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18039;}
+\margl1440\margr1440\vieww25400\viewh13220\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 1987\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+EA	0.7975131679401181\
+WN	0.7654376764824526\
+AA	0.762071450633172\
+The Flights with the least probability of being late are:\
+PS	0.5839687335155613\
+DL	0.6048715644222955\
+AS	0.6312716060917499\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 88\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+WN	0.8156148176462791\
+AA	0.7846334014825359\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+HP      0.7103993370372516\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+US	0.6964886107702517\
+NW	0.6977708522863078\
+PI	0.6986733941736929\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 89\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+WN	0.7871376176412551\
+HP	0.7783401049642297\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+AA	0.7116267797481697\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+US	0.6735126646224201\
+UA	0.6987383239427833\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 90\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+WN	0.7775135209058526\
+HP	0.7771666572648126\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+PA (1)	0.7023354547619144\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+UA	0.7095788731258019\
+US	0.7115516157817801\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 91\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+PA (1)	0.8199392491555248\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ML (1)	0.8109937413270653\
+WN	0.7840639783182545\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+UA	0.7183006120925916\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 92\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8318753296079241\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ML (1)	0.8109937413270653\
+WN	0.809592939122623\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+DL	0.7240180041221032\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 93\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+WN	0.8208860725219501\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8034295215808964\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+DL	0.7195945055788514\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 94\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+WN	0.8203265162895014\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8157147830130032\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ML (1)	0.8109937413270653\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+DL	0.7237082099691361\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 95\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+WN	0.8121948629183848\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8117953983927318\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ML (1)	0.8109937413270653\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+DL	0.722254693144071\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	16.125534471373985\
+EWR	14.660862740803607\
+DFW	14.176996975494419\
+The Airports with the lowest taxi time are:\
+GUM	3.4761904761904763\
+KSM	3.9849624060150375\
+DUT	4.191292875989446\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 96\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8061435317295862\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 WN	0.8054000560507122\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+DL	0.7157072357260478\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	16.914142785124287\
+EWR	15.301810349922189\
+DFW	14.222427159701798\
+The Airports with the lowest taxi time are:\
+ABI	0.0\
+GUM	3.4295302013422817\
+KSM	3.802030456852792\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 97\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.803646816589092\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 WN	0.800595058697193\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+DL	0.7129202413901452\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	16.888491810089477\
+EWR	15.672909418236278\
+DFW	14.218731745521676\
+The Airports with the lowest taxi time are:\
+ABI	0.0\
+GUM	3.4066666666666667\
+KSM	3.802030456852792\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 98\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8025935400359829\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 WN	0.7958974973467082\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+DL	0.7176633796421737\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	17.14430383412487\
+EWR	16.232759142955228\
+DFW	14.06996054027045\
+The Airports with the lowest taxi time are:\
+ABI	0.0\
+GUM	3.4066666666666667\
+KSM	3.802030456852792\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 99\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8045064217927747\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 WN	0.7906966532511546\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+AS	0.7185849223066488\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	17.348365871925527\
+EWR	16.649576892662143\
+DFW	14.05426914979551\
+The Airports with the lowest taxi time are:\
+ABI	0.0\
+GUM	3.4066666666666667\
+DUT	3.6560636182902586\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 2000\
+\'97\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+AQ	0.8817506342877854\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.8345064217927747\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ML (1)	0.8109937413270653\
+The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+AS	0.713839787215351\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	17.616169119728546\
+EWR	16.814609855571952\
+LGA	14.507535564452269\
+The Airports with the lowest taxi time are:\
+ABI	0.0\
+GUM	3.4066666666666667\
+DUT	3.5764945652173914\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 01\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+AQ	0.8310608631273715\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.7955103462977273\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+AS	0.7096653325385336\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+JFK	17.451648725701144\
+EWR	16.799488854350237\
+LGA	14.692579314997339\
+The Airports with the lowest taxi time are:\
+LNY	0.0\
+GUM	3.4066666666666667\
+DUT	3.605410447761194\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 02\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+AQ	0.8310608631273715\
+ML (1)	0.8109937413270653\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+NW	0.806673590411549\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+AS	0.7136069984859245\
+PS	0.7184782998672519\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+ACY	169.5\
+JFK	17.35488640211598\
+EWR	16.670023986406115\
+The Airports with the lowest taxi time are:\
+LNY	0.0\
+GUM	3.4066666666666667\
+DUT	3.509649820931158\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 03\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+HA	0.8881368918401226\
+OO	0.8633168767215809\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+XE	0.8000109623853154\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+FL	0.719177608845888\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+## NO OUTPUT ##\
+\
+\
+1987 - 04\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+HA	0.9191886670959434\
+OO	0.8354383440143494\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+ML (1)	0.814655015263531\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+PS	0.7184782998672519\
+AS	0.7219488447157472\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+CKB	229.66666666666666\
+MKK	45.77816291161179\
+GNV	29.259280834613143\
+The Airports with the lowest taxi time are:\
+SKA	0.0\
+PUB	1.125\
+BFF	2.0\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The most common reason of flight delay is	Weather Delay\
+\
+\
+1987 - 05\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+HA	0.9268620726095436\
+AQ	0.8310608631273715\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+OO	0.7711106632504116\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+FL	0.70695513776982\
+AS	0.7183709753128985\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+CKB	212.3846153846154\
+MKK	45.77816291161179\
+FLO	30.613598946328615\
+The Airports with the lowest taxi time are:\
+LAR	0.0\
+PUB	0.6923076923076923\
+BFF	2.0\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The most common reason of flight delay is	Weather Delay\
+\
+\
+1987 - 06\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+HA	0.9248771310090615\
+AQ	0.8526656090041009\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+ML (1)	0.754655015263531\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+FL	0.7089146894143551\
+EV	0.7141918127185691\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+CKB	197.85714285714286\
+MKK	45.77816291161179\
+VLD	28.221441947565545\
+The Airports with the lowest taxi time are:\
+LAR	0.0\
+PUB	0.6\
+BFF	2.0\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The most common reason of flight delay is	Weather Delay\
+\
+\
+1987 - 07\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+HA	0.9225848361176621\
+AQ	0.8699626827487874\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+ML (1)	0.754655015263531\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+PI	0.666758204351015\
+EV	0.6985649411935787\
+B6	0.7132336448598131\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+CKB	197.85714285714286\
+MKK	45.77816291161179\
+VLD	24.602860715960606\
+The Airports with the lowest taxi time are:\
+LAR	0.0\
+PUB	0.5294117647058824\
+BFF	1.3333333333333333\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The most common reason of flight delay is	Weather Delay\
+\
+\
+1987 - 08\
+\'97\'97\'97\'97\'97\
+OnSchedule\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The Flights with the highest probability of being late are:\
+HA	0.9135070096439575\
+AQ	0.8728729571644179\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+ML (1)	0.754655015263531\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Flights with the least probability of being late are:\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+PS	0.6532633395307013\cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 PI	0.666758204351015\
+EV	0.702561461978428\
+\
+TaxiTime\
+\'97\'97\'97\'97\'97\'97\'97\
+The Airports with the highest taxi time are:\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+MKK\cf0 \kerning1\expnd0\expndtw0 	781.0\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 CKB	197.85714285714286\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+VLD\cf0 \kerning1\expnd0\expndtw0 	90.0\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 The Airports with the lowest taxi time are:\
+\pard\pardeftab720\partightenfactor0
+\cf2 \expnd0\expndtw0\kerning0
+CYS	1.2749705044\cf0 \kerning1\expnd0\expndtw0 423607\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 BFF	1.3333333333333333\
+PVU	1.7692307692307692\
+\
+CancelReason\
+\'97\'97\'97\'97\'97\'97\'97\'97\
+The most common reason of flight delay is	Weather Delay\
+}
